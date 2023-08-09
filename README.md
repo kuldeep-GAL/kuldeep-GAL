@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kuldeep-GAL
+- 👋 Hi, I’m Kuldeep Singh.
 - 👀 I’m interested in delivering solutions to fill enterprise needs.
 - 🌱 I’m currently learning PowerBI, React & distributed event streaming.
 - 💞️ I’m looking to collaborate on Microsoft web stack, including ASP.NET MVC, Web API, SQL Server, and Azure.
